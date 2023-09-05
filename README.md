@@ -1,5 +1,5 @@
 # Client-Server Application
-_This project was created as a part of CS F372: OS Assignment 2_ <br /><br />
+
 A POSIX-C code (will not run on Windows terminal) that can register multiple clients and perform simple mathematical tasks using a single server. <br />
 It uses read-write lock to register multiple clients and run them in parallel. <br />
 Shared memory is read and written to store and access data during runtime. <br />
